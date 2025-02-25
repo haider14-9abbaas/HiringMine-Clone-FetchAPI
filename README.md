@@ -30,5 +30,5 @@ A modern job portal clone replicating Hiring Mine's core functionality, built wi
 - Internet connection
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://haider14-9abbaas.github.io/HiringMine-Clone-FetchAPI/)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/hiring-mine-clone)
